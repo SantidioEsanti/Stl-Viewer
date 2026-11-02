@@ -50,8 +50,7 @@
 > _Место под скриншоты. Добавьте в папку `docs/` и обновите пути ниже._
 
 ```
-docs/screenshot-main.png    — основное окно с загруженной моделью
-docs/screenshot-empty.png   — пустое состояние с логотипом
+<img width="1920" height="1031" alt="screenshot-main" src="https://github.com/user-attachments/assets/faf71f2d-73ca-4651-8201-ff516e3fd77e" />
 ```
 
 ---
